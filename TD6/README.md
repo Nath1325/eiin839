@@ -1,10 +1,10 @@
-*Tester le serveur SOAP 
+## Tester le serveur SOAP 
 
 Ouvrir le projet SOAPWebService puis le lancer
 Ouvrir le projet SOAPWebClient puis le lancer. 
 Les résultats des opérations s'afficheront dans la console 
 
-*Tester le serveur REST
+## Tester le serveur REST
 
 Ouvrir le projet RESTWebService puis le lancer
 Ouvrir postman et utiliser les URL suivants pour tester toutes les opérations : 
