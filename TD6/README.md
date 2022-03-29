@@ -7,7 +7,7 @@ Les résultats des opérations s'afficheront dans la console <br/>
 ## Tester le serveur REST
 
 Ouvrir le projet RESTWebService puis le lancer <br/>
-Ouvrir postman et utiliser les URL suivants pour tester toutes les opérations : <br/>
+Ouvrir postman et utiliser les URL suivants avec une méthode GET pour tester toutes les opérations : <br/>
 
 Addition 
 http://localhost:8733/Design_Time_Addresses/MathsLibrary/MathsOperations/Add?x=2&y=3
