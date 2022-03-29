@@ -1,13 +1,13 @@
 ## Tester le serveur SOAP 
 
-Ouvrir le projet SOAPWebService puis le lancer
-Ouvrir le projet SOAPWebClient puis le lancer. 
-Les résultats des opérations s'afficheront dans la console 
+Ouvrir le projet SOAPWebService puis le lancer <br/>
+Ouvrir le projet SOAPWebClient puis le lancer. <br/>
+Les résultats des opérations s'afficheront dans la console <br/>
 
 ## Tester le serveur REST
 
-Ouvrir le projet RESTWebService puis le lancer
-Ouvrir postman et utiliser les URL suivants pour tester toutes les opérations : 
+Ouvrir le projet RESTWebService puis le lancer <br/>
+Ouvrir postman et utiliser les URL suivants pour tester toutes les opérations : <br/>
 
 Addition 
 http://localhost:8733/Design_Time_Addresses/MathsLibrary/MathsOperations/Add?x=2&y=3
